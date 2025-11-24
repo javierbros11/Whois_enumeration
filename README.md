@@ -1,7 +1,7 @@
 
 # WHOIS Enumeration
 
-Se trata de un programa permite consultar la base de datos Whois para mostrar por pantalla toda la información obtenida en base a un nombre de dominio que proporcionemos.
+Se trata de un programa que permite consultar la base de datos Whois para mostrar por pantalla toda la información obtenida en base a un nombre de dominio que proporcionemos.
 ## Instalación
 
 Para el correcto funcionamiento del script requerimos instalar previamente Python en nuestro equipo.
