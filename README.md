@@ -26,7 +26,7 @@ Adicionalmente requerimos instalar el paquete de Whois para Python (documentado 
 
 
 
-## Tech Stack
+## Desarrollo
 
 El script presentado se encuentra desarrollado en **Python**.
 
